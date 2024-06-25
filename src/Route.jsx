@@ -19,7 +19,7 @@ const Route = () => {
         <div className="collapse navbar-collapse" id="navbarText">
           <ul className="navbar-nav mx-auto">
             <li className="nav-item">
-              <Link className="nav-link" to="all">
+              <Link className="nav-link" to="/">
                 ALL
               </Link>
             </li>
